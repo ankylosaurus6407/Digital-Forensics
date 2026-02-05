@@ -1,5 +1,6 @@
 # Digital-Forensics-
 Insider threat? maybe
+
 Case Scenario:
 Alex is a 33-year-old ex-employee at Northbridge Systems who was passed over promotions at work despite being a hardworking employee. 
 Alex is suspected of possessing data which was confidential to employees of his postion and leaking the confidential data to a Northbridge Systems' competitor company SellCorp. 
