@@ -1,70 +1,70 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0" version="29.3.8">
   <diagram name="Page-1" id="-GeoY2xoy4BJFmwE5CY8">
-    <mxGraphModel dx="216" dy="633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1340" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TSB0fjJvEuoPqxT85kpD-3" edge="1" parent="1" source="TSB0fjJvEuoPqxT85kpD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TSB0fjJvEuoPqxT85kpD-2" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TSB0fjJvEuoPqxT85kpD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;div&gt;User Intent Established (Autopsy)&lt;/div&gt;&lt;div&gt;Picture of email titled “Confidential Opportunity – Sell Corp” indicates external communication and motive.&lt;/div&gt;" vertex="1">
+        <mxCell id="TSB0fjJvEuoPqxT85kpD-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;div&gt;&lt;b&gt;User Intent Established (Autopsy)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Picture of email titled “Confidential Opportunity – Sell Corp” indicates external communication and motive.&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="200" x="80" y="80" as="geometry" />
         </mxCell>
         <mxCell id="TSB0fjJvEuoPqxT85kpD-5" edge="1" parent="1" source="TSB0fjJvEuoPqxT85kpD-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TSB0fjJvEuoPqxT85kpD-4" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TSB0fjJvEuoPqxT85kpD-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;div&gt;Method Identified (Autopsy)&lt;/div&gt;&lt;div&gt;Web search activity related to steganography techniques, image selection, and network tools demonstrates the method used to conceal and transfer data.&lt;/div&gt;" vertex="1">
+        <mxCell id="TSB0fjJvEuoPqxT85kpD-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;div&gt;&lt;b&gt;Method Identified (Autopsy)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Web search activity related to steganography techniques, image selection, and network tools demonstrates the method used to conceal and transfer data.&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="240" x="360" y="80" as="geometry" />
         </mxCell>
         <mxCell id="TSB0fjJvEuoPqxT85kpD-7" edge="1" parent="1" source="TSB0fjJvEuoPqxT85kpD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TSB0fjJvEuoPqxT85kpD-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TSB0fjJvEuoPqxT85kpD-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;div&gt;Sensitive Data &amp;amp; Carrier File Located (Autopsy)&lt;/div&gt;&lt;div&gt;Presence of international.csv and seafoodboil.jpg confirms availability of both the data and a suitable carrier file.&lt;/div&gt;" vertex="1">
+        <mxCell id="TSB0fjJvEuoPqxT85kpD-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;div&gt;&lt;b&gt;Sensitive Data &amp;amp; Carrier File Located (Autopsy)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Presence of international.csv and seafoodboil.jpg confirms availability of both the data and a suitable carrier file.&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="240" x="680" y="80" as="geometry" />
         </mxCell>
         <mxCell id="TSB0fjJvEuoPqxT85kpD-9" edge="1" parent="1" source="TSB0fjJvEuoPqxT85kpD-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TSB0fjJvEuoPqxT85kpD-8" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TSB0fjJvEuoPqxT85kpD-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;div&gt;Steganography Executed (Autopsy)&lt;/div&gt;&lt;div&gt;Command-line artifact shows data embedding activity.&lt;/div&gt;" vertex="1">
+        <mxCell id="TSB0fjJvEuoPqxT85kpD-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;div&gt;&lt;b&gt;Steganography Executed (Autopsy)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Command-line artifact shows data embedding activity.&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="200" x="1000" y="80" as="geometry" />
         </mxCell>
         <mxCell id="TSB0fjJvEuoPqxT85kpD-11" edge="1" parent="1" source="TSB0fjJvEuoPqxT85kpD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TSB0fjJvEuoPqxT85kpD-10" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TSB0fjJvEuoPqxT85kpD-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;div&gt;Steganographic Output Created (Autopsy)&lt;/div&gt;&lt;div&gt;seafoodboilforcher.jpg generated with a matching cryptographic hash.&lt;/div&gt;" vertex="1">
+        <mxCell id="TSB0fjJvEuoPqxT85kpD-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;div&gt;&lt;b&gt;Steganographic Output Created (Autopsy)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;seafoodboilforcher.jpg generated with a matching cryptographic hash.&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="240" x="980" y="240" as="geometry" />
         </mxCell>
         <mxCell id="TSB0fjJvEuoPqxT85kpD-13" edge="1" parent="1" source="TSB0fjJvEuoPqxT85kpD-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TSB0fjJvEuoPqxT85kpD-12" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TSB0fjJvEuoPqxT85kpD-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="&lt;div&gt;Removable Media Connected (Autopsy)&lt;/div&gt;&lt;div&gt;USB insertion artifacts confirm interaction with external storage during the relevant timeframe.&lt;/div&gt;" vertex="1">
+        <mxCell id="TSB0fjJvEuoPqxT85kpD-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;arcSize=27;" value="&lt;div&gt;&lt;b&gt;Removable Media Connected (Autopsy)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;USB insertion artifacts confirm interaction with external storage during the relevant timeframe.&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="240" x="660" y="240" as="geometry" />
         </mxCell>
         <mxCell id="TSB0fjJvEuoPqxT85kpD-15" edge="1" parent="1" source="TSB0fjJvEuoPqxT85kpD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TSB0fjJvEuoPqxT85kpD-14" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TSB0fjJvEuoPqxT85kpD-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" value="&lt;div&gt;Cleanup Activity Observed (TSK – USB)&lt;/div&gt;&lt;div&gt;Deleted international.csv and seafoodboil.jpg recovered from USB; hashes match Windows 10 originals, indicating intentional removal.&lt;/div&gt;" vertex="1">
+        <mxCell id="TSB0fjJvEuoPqxT85kpD-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" value="&lt;div&gt;&lt;b&gt;Cleanup Activity Observed (TSK – USB)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Deleted international.csv and seafoodboil.jpg recovered from USB; hashes match Windows 10 originals, indicating intentional removal.&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="240" x="340" y="240" as="geometry" />
         </mxCell>
         <mxCell id="TSB0fjJvEuoPqxT85kpD-17" edge="1" parent="1" source="TSB0fjJvEuoPqxT85kpD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TSB0fjJvEuoPqxT85kpD-16" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TSB0fjJvEuoPqxT85kpD-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="&lt;div&gt;External Destination Identified (Autopsy)&lt;/div&gt;&lt;div&gt;IP address discovered in sc_ipadd.txt, providing a destination for subsequent transfer.&lt;/div&gt;" vertex="1">
+        <mxCell id="TSB0fjJvEuoPqxT85kpD-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="&lt;div&gt;&lt;b&gt;External Destination Identified (Autopsy)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;IP address discovered in sc_ipadd.txt, providing a destination for subsequent transfer.&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="190" x="70" y="230" as="geometry" />
         </mxCell>
         <mxCell id="TSB0fjJvEuoPqxT85kpD-19" edge="1" parent="1" source="TSB0fjJvEuoPqxT85kpD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TSB0fjJvEuoPqxT85kpD-18" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TSB0fjJvEuoPqxT85kpD-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="&lt;div&gt;External Destination Identified (Autopsy)&lt;/div&gt;&lt;div&gt;IP address discovered in sc_ipadd.txt, providing a destination for subsequent transfer.&lt;/div&gt;" vertex="1">
+        <mxCell id="TSB0fjJvEuoPqxT85kpD-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" value="&lt;div&gt;&lt;b&gt;External Destination Identified (Autopsy)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;IP address discovered in sc_ipadd.txt, providing a destination for subsequent transfer.&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="190" x="70" y="410" as="geometry" />
         </mxCell>
         <mxCell id="TSB0fjJvEuoPqxT85kpD-21" edge="1" parent="1" source="TSB0fjJvEuoPqxT85kpD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TSB0fjJvEuoPqxT85kpD-20" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TSB0fjJvEuoPqxT85kpD-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" value="&lt;div&gt;Network Exfiltration Confirmed (Wireshark)&lt;/div&gt;&lt;div&gt;Traffic observed to the identified IP address; seafoodboilforcher.jpg reconstructed from PCAP.&lt;/div&gt;" vertex="1">
+        <mxCell id="TSB0fjJvEuoPqxT85kpD-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" value="&lt;div&gt;&lt;b&gt;Network Exfiltration Confirmed (Wireshark)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Traffic observed to the identified IP address; seafoodboilforcher.jpg reconstructed from PCAP.&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="190" x="340" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="TSB0fjJvEuoPqxT85kpD-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" value="&lt;div&gt;Integrity Verified Across Tools (Autopsy + TSK + Wireshark)&lt;/div&gt;&lt;div&gt;Matching hashes confirm the same file across system, USB, and network capture.&lt;/div&gt;" vertex="1">
+        <mxCell id="TSB0fjJvEuoPqxT85kpD-20" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#76608a;strokeColor=#432D57;fontColor=#ffffff;" value="&lt;div&gt;&lt;b&gt;Integrity Verified Across Tools (Autopsy + TSK + Wireshark)&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Matching hashes confirm the same file across system, USB, and network capture.&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="190" x="610" y="410" as="geometry" />
         </mxCell>
       </root>
